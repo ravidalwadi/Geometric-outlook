@@ -1,5 +1,7 @@
 # Geometric-Outlook  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="90px">
 
+You can view it on: https://ravidalwadi.github.io/Geometric-outlook/
+
 A static Webpage made by using Bootstrap and adding many new features and styling to make it look more attractive.
 
 ## 💻 Tools and Technologies:
