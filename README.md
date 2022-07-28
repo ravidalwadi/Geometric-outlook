@@ -1,4 +1,4 @@
-# Geometric-Outlook  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width=
+# Geometric-Outlook  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="90px">
 
 A static Webpage made by using Bootstrap and adding many new features and styling to make it look more attractive.
 
